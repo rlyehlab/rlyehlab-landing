@@ -3081,7 +3081,7 @@
 /* Intro */
 
 	#intro {
-		color: #656565;
+		color: #b75454;
 		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -3111,7 +3111,7 @@
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: #656565;
+			color: #b75454;
 		}
 
 		#intro a {
@@ -3129,7 +3129,7 @@
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: #656565;
+			color: #b75454;
 		}
 
 		#intro blockquote {
@@ -3151,7 +3151,7 @@
 		#intro button,
 		#intro .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #656565;
+			box-shadow: inset 0 0 0 2px #b75454;
 			color: #656565 !important;
 		}
 
